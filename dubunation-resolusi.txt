@@ -1,0 +1,5 @@
+DUBUNATION RESOLUSI
+
+- Konsisten dalam membuat Projek dan Developing Game
+- Membuat Game Turn Based
+- Membuat StartUp
