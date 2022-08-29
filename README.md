@@ -1,2 +1,2 @@
-# DubuNation-Resolusi
-Repository untuk menyimpan rencana DubuNation kedepannya
+# dubunation-resolusi
+Repository untuk menyimpan rencana dubunation kedepannya
